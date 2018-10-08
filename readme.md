@@ -13,6 +13,4 @@ Back to [Siconos home page](https://nonsmooth.gricad-pages.univ-grenoble-alpes.f
 
 
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgricad-gitlab.univ-grenoble-alpes.fr%2Fperignfr%2Fsiconos-tutorial.git/7c37d2cc06c00ef3ca15b1cafb1ecd94be3462ec)
-
-
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgricad-gitlab.univ-grenoble-alpes.fr%2Fperignfr%2Fsiconos-tutorial.git/ff00c0affa3297b796471a404eea514cec9e8061)
