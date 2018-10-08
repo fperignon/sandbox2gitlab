@@ -12,5 +12,4 @@ a list of examples for different areas of application. Please visit directory ex
 Back to [Siconos home page](https://nonsmooth.gricad-pages.univ-grenoble-alpes.fr/siconos/index.html)
 
 
-
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgricad-gitlab.univ-grenoble-alpes.fr%2Fperignfr%2Fsiconos-tutorial.git/ff00c0affa3297b796471a404eea514cec9e8061)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgricad-gitlab.univ-grenoble-alpes.fr%2Fperignfr%2Fsiconos-tutorial.git/e632aee2241c3a2730a6e0613c71830c11cb60bf)
